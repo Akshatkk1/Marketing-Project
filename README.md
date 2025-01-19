@@ -11,12 +11,12 @@ Identifying essential products: I will look more into the products generating be
 Sales Trend Analysis: I would wish to know whether there is any seasonal or monthly trend in sales so that I can use that information to do promotional strategies. By noting when peaks happen, the company can time its marketing efforts for better impact.
 
 In the python file:
- Imported data and overview
- Data Cleaning
- Feature Engineering
- Customer Segmentation
- Product Segmentation
- Sales Trend Analysis
- Payment Method Insights
- Break Even Point
- K-means Clustering
+ Imported data and overview,
+ Data Cleaning,
+ Feature Engineering,
+ Customer Segmentation,
+ Product Segmentation,
+ Sales Trend Analysis,
+ Payment Method Insights,
+ Break Even Point,
+ K-means Clustering.
